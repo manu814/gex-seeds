@@ -1,0 +1,10 @@
+{
+  "symbol": ["NDX_CALLWALL", "NDX_PUTWALL", "NDX_FLIPHI", "NDX_FLIPLO"],
+  "description": ["NDX GEX Call Wall", "NDX GEX Put Wall", "NDX GEX Flip High", "NDX GEX Flip Low"],
+  "currency": ["USD", "USD", "USD", "USD"],
+  "pricescale": [1, 1, 1, 1],
+  "minmovement": [1, 1, 1, 1],
+  "session-regular": ["0000-0000", "0000-0000", "0000-0000", "0000-0000"],
+  "timezone": ["America/New_York", "America/New_York", "America/New_York", "America/New_York"],
+  "type": ["index", "index", "index", "index"]
+}
